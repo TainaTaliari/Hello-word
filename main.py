@@ -1,1 +1,2 @@
-print ("Hello, Word!")
+def saudacao ():
+    print ("Hello, Word!")
